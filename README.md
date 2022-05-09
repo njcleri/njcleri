@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I am an astronomy PhD student at Texas A&M University, where I study emission-line galaxies. My current works include a study of near-infrared star-formation through hydrogen emission lines in the Paschen series, and a study of a population of extremely high ionization HeII and NeV emitting galaxies. 
 
-Feel free to look through my repositories here or check out my personal website at [njcleri.github.io](https://tx.ag/cleri). 
+Feel free to look through my repositories here or check out my personal website at [tx.ag/cleri](https://tx.ag/cleri). 
 
 <!--
 **njcleri/njcleri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
