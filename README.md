@@ -1,6 +1,6 @@
 ### Nikko J. Cleri - PhD Student at Texas A&M University
 
-Welcome to my GitHub! I am an astronomy PhD student at Texas A&M University, where I study emission-line galaxies. My current works include a study of near-infrared star-formation through hydrogen emission lines in the Paschen series, and a study of a population of extremely high ionization HeII and NeV emitting galaxies. 
+Welcome to my GitHub! I am an astronomy PhD student at Texas A&M University, where I study emission-line galaxies. I currently study emission-line galaxies with a focus on rest-frame UV/optical spectra of high-redshift galaxies. I primarily use data from JWST and HST, and is a member of the CEERS (Cosmic Evolution Early Release Science), NGDEEP (Next Generation Deep Extragalactic Exploratory Public Survey), and CLEAR (CANDELS Lyman-alpha Emission at Reionization) collaborations. 
 
 Feel free to look through my repositories here or check out my personal website at [tx.ag/cleri](https://tx.ag/cleri). 
 
